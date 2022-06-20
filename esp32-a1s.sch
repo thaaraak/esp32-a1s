@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Xenir:ESP32-A1S U?
+L esp32-a1s-rescue:ESP32-A1S-Xenir U?
 U 1 1 6287B27E
 P 5375 3325
 F 0 "U?" H 5375 4582 50  0000 C CNN
@@ -83,7 +83,7 @@ DTR
 Text GLabel 2375 3750 0    50   Input ~ 0
 RTS
 $Comp
-L Xenir:Resistor R?
+L esp32-a1s-rescue:Resistor-Xenir R?
 U 1 1 62884B2D
 P 2675 2925
 F 0 "R?" H 2675 3079 28  0000 C CNN
@@ -94,7 +94,7 @@ F 3 "" H 2675 2825 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Resistor R?
+L esp32-a1s-rescue:Resistor-Xenir R?
 U 1 1 628852B4
 P 2675 3750
 F 0 "R?" H 2675 3904 28  0000 C CNN
@@ -171,7 +171,7 @@ F 3 "" H 4875 4900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:USB_to_Serial U?
+L esp32-a1s-rescue:USB_to_Serial-Xenir U?
 U 1 1 6289875F
 P 7525 1600
 F 0 "U?" H 7683 2115 50  0000 C CNN
@@ -1113,7 +1113,7 @@ A0 5D BC 50 A9 85 B4 AB 09 F5 00 00 00 80 B6 E0 77 28 00 00 00 4E 83 44 08 00 00
 EndData
 $EndBitmap
 $Comp
-L Xenir:Audio_Jack J?
+L esp32-a1s-rescue:Audio_Jack-Xenir J?
 U 1 1 6289D837
 P 8050 3500
 F 0 "J?" H 7772 3104 50  0000 R CNN
@@ -1124,7 +1124,7 @@ F 3 "" H 8050 3500 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Xenir:Capacitor C?
+L esp32-a1s-rescue:Capacitor-Xenir C?
 U 1 1 6289EEA2
 P 7000 3100
 F 0 "C?" V 6975 2925 28  0000 L CNN
@@ -1135,7 +1135,7 @@ F 3 "" H 7000 2950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Xenir:Capacitor C?
+L esp32-a1s-rescue:Capacitor-Xenir C?
 U 1 1 6289F7F9
 P 7625 3400
 F 0 "C?" V 7625 3225 28  0000 L CNN
@@ -1146,7 +1146,7 @@ F 3 "" H 7625 3250 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Xenir:Resistor R?
+L esp32-a1s-rescue:Resistor-Xenir R?
 U 1 1 6289FC7A
 P 7400 3250
 F 0 "R?" H 7400 3404 28  0000 C CNN
@@ -1157,7 +1157,7 @@ F 3 "" H 7400 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Resistor R?
+L esp32-a1s-rescue:Resistor-Xenir R?
 U 1 1 628A054A
 P 6800 2950
 F 0 "R?" H 6800 3104 28  0000 C CNN

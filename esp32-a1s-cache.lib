@@ -43,11 +43,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Xenir_Audio_Jack
+# esp32-a1s-rescue_Audio_Jack-Xenir
 #
-DEF Xenir_Audio_Jack J 0 40 Y Y 1 F N
+DEF esp32-a1s-rescue_Audio_Jack-Xenir J 0 40 Y Y 1 F N
 F0 "J" -400 -350 50 H V C CNN
-F1 "Xenir_Audio_Jack" 0 0 50 H V C CNN
+F1 "esp32-a1s-rescue_Audio_Jack-Xenir" 0 0 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -69,11 +69,11 @@ X TSH TSH 200 -450 100 L 0 0 1 1 B
 ENDDRAW
 ENDDEF
 #
-# Xenir_Capacitor
+# esp32-a1s-rescue_Capacitor-Xenir
 #
-DEF Xenir_Capacitor C 0 40 Y Y 1 F N
+DEF esp32-a1s-rescue_Capacitor-Xenir C 0 40 Y Y 1 F N
 F0 "C" 0 125 28 H V C CNN
-F1 "Xenir_Capacitor" 0 -125 28 H V C CNN
+F1 "esp32-a1s-rescue_Capacitor-Xenir" 0 -125 28 H V C CNN
 F2 "" 0 -150 50 H I C CNN
 F3 "" 0 -150 50 H I C CNN
 DRAW
@@ -84,11 +84,11 @@ X ~ 2 150 0 110 L 0 0 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Xenir_ESP32-A1S
+# esp32-a1s-rescue_ESP32-A1S-Xenir
 #
-DEF Xenir_ESP32-A1S U 0 40 Y Y 1 F N
+DEF esp32-a1s-rescue_ESP32-A1S-Xenir U 0 40 Y Y 1 F N
 F0 "U" -601 1026 50 H V L BNN
-F1 "Xenir_ESP32-A1S" -601 -1101 50 H V L BNN
+F1 "esp32-a1s-rescue_ESP32-A1S-Xenir" -601 -1101 50 H V L BNN
 F2 "" -600 1200 50 H I L BNN
 F3 "" 0 1050 50 H I L BNN
 F4 "4" 0 1050 50 H V L BNN "PARTREV"
@@ -136,11 +136,11 @@ X IO13 9 -800 100 200 R 40 40 0 0 B
 ENDDRAW
 ENDDEF
 #
-# Xenir_Resistor
+# esp32-a1s-rescue_Resistor-Xenir
 #
-DEF Xenir_Resistor R 0 40 Y Y 1 F N
+DEF esp32-a1s-rescue_Resistor-Xenir R 0 40 Y Y 1 F N
 F0 "R" 0 75 28 H V C CNN
-F1 "Xenir_Resistor" 0 -75 28 H V C CNN
+F1 "esp32-a1s-rescue_Resistor-Xenir" 0 -75 28 H V C CNN
 F2 "" 0 -100 50 H I C CNN
 F3 "" 0 -100 50 H I C CNN
 DRAW
@@ -158,11 +158,11 @@ X 2 2 200 0 100 L 0 0 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Xenir_USB_to_Serial
+# esp32-a1s-rescue_USB_to_Serial-Xenir
 #
-DEF Xenir_USB_to_Serial U 0 40 Y Y 1 F N
+DEF esp32-a1s-rescue_USB_to_Serial-Xenir U 0 40 Y Y 1 F N
 F0 "U" 0 0 50 H V C CNN
-F1 "Xenir_USB_to_Serial" 50 450 50 H V C CNN
+F1 "esp32-a1s-rescue_USB_to_Serial-Xenir" 50 450 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
